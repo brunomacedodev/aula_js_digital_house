@@ -1,12 +1,12 @@
-<?php require_once '/.inc/head.php'; ?>
+<?php require_once './inc/head.php'; ?>
     <title>Prática em aula de JS</title>
 </head>
 <body>
-    <?php require_once '/.inc/header.php'; ?>
+    <?php require_once './inc/header.php'; ?>
     <main id="content">
     
     </main>
-    <?php require_once '/.inc/footer.php'; ?>
+    <?php require_once './inc/footer.php'; ?>
     
 </body>
 </html>
